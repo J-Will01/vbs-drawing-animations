@@ -11,6 +11,7 @@ __pycache__/
 /clips
 /configs
 
+token.pickle
 # C extensions
 *.so
 
