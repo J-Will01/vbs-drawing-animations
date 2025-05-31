@@ -11,6 +11,8 @@ from tqdm import tqdm
 # Replace this with your Google Drive folder ID
 FOLDER_ID = '1v6vPHLL9CwzomIrLxr2fHwVd2FfbdzAP'
 
+link_to_folder = 'https://drive.google.com/drive/u/0/folders/1v6vPHLL9CwzomIrLxr2fHwVd2FfbdzAP'
+
 # Target directory to save images
 DOWNLOAD_DIR = './downloaded_images'
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)
