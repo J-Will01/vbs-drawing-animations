@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Script Generated
+/bin
+/input_drawings
+/output_folders
+/logs
+/clips
+/configs
+
 # C extensions
 *.so
 
